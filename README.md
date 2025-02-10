@@ -1,0 +1,1 @@
+Jens Wohlmann; Expanding the field of view – a simple approach for interactive visualisation of electron microscopy data. J Cell Sci 15 October 2024; 137 (20): jcs262198. doi: https://doi.org/10.1242/jcs.262198
